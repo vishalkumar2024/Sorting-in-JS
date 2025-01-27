@@ -8,7 +8,6 @@ for (let i = 0; i < arr.length - 1; i++) {
             min = arr[j];
             minIdx = j;
         }
-        // console.log(arr, min, minIdx);
     }
         let temp = arr[minIdx];
         arr[minIdx] = arr[i];
