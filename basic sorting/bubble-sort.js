@@ -28,4 +28,4 @@ for (let i = 0; i < arr.length; i++) {
     }
     if (bool == true) break;
 }
-console.log(arr)
+console.log(arr);
