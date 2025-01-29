@@ -1,3 +1,4 @@
+//-----------  Selection sort  ------------//
 let arr = [3, 9, 52, 1, 5, 11];
 
 for (let i = 0; i < arr.length - 1; i++) {
