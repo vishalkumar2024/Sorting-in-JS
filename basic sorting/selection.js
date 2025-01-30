@@ -1,5 +1,4 @@
 //-----------  Selection sort  ------------//
-let arr = [3, 9, 52, 1, 5, 11];
 
 let selectionFun = (arr) => {
     for (let i = 0; i < arr.length - 1; i++) {
@@ -17,4 +16,5 @@ let selectionFun = (arr) => {
     }
     return arr;
 }
+let arr = [3, 9, 52, 1, 5, 11];
 console.log(selectionFun(arr));
