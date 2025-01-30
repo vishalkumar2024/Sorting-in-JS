@@ -14,8 +14,8 @@ function BubbleSort(arr){
 let arr = [52, 24, 53, 2, 11];
 console.log(BubbleSort(arr));
 
-//---------- Optimise Code  ----------// 
 
+//---------- Optimise Code  ----------// 
 
 function bubbleSort(arr){
    for (let i = 0; i < arr.length; i++) {
